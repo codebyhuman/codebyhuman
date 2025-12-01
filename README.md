@@ -1,11 +1,11 @@
 <div align="center"> 
 <h2>💦 Web3 Builder & Entrepreneur | Rust | Solidity | Smart Contracts 💦</h2> 
-</div> <h4> I am a Web3 innovator turning ideas into real value. With deep expertise in Rust (Solana & NEAR) and Solidity (Ethereum), I build secure, scalable smart contracts, dApps, automated trading bots, and advanced DeFi protocols.
-
-
-Blending technical excellence with strategic insight, I help projects go from concept to production-ready solutions, bridging blockchain innovation with real-world impact. My focus is always on creating tools, platforms, and ecosystems that drive value for users, communities, and businesses alike.
-
-</h4>
+</div> 
+  <h4> I am a Web3 innovator turning ideas into real value. With deep expertise in Rust (Solana & NEAR) and Solidity (Ethereum), I build secure, scalable smart contracts, dApps, automated trading bots, and advanced DeFi protocols.
+  </h4>
+  <h4>
+  Blending technical excellence with strategic insight, I help projects go from concept to production-ready solutions, bridging blockchain innovation with real-world impact. My focus is always on creating tools, platforms, and ecosystems that drive value for users, communities, and businesses alike.
+  </h4>
 
 # 
 <table align="center">

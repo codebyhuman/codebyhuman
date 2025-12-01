@@ -194,7 +194,7 @@ I have developed multiple NFT and blockchain projects encompassing a wide range 
 <h3><u><strong><i>Moomoo</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/1.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/1.png">
 I developed Moomoo, a cutting-edge trading platform that empowers investors with zero-commission trading and a suite of advanced tools to enhance their investment strategies.
 Leveraging modern web technologies and secure infrastructure, I implemented features such as real-time data streaming, interactive charting, and seamless integration with financial APIs to provide users with a comprehensive trading experience.
 The platform has the potential to expand by incorporating additional asset classes, enhancing mobile accessibility, and integrating AI-driven analytics to offer personalized investment recommendations.
@@ -202,7 +202,7 @@ The platform has the potential to expand by incorporating additional asset class
 <h3><u><strong><i>Magnum AI</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/13.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/13.png">
 I developed Magnum AI, a platform that integrates advanced technology to offer users a seamless and secure online lottery and betting experience across multiple international markets.
 Utilizing robust backend technologies and secure payment gateways, I implemented a system that ensures real-time updates, user authentication, and data encryption, providing a trustworthy environment for users.
 The platform has the potential to expand by incorporating additional betting options, enhancing mobile accessibility, and integrating advanced analytics to offer personalized user experiences.
@@ -211,7 +211,7 @@ The platform has the potential to expand by incorporating additional betting opt
 <h3><u><strong><i>Supra</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/2.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/2.png">
 I developed Supra, a cutting-edge Layer 1 blockchain that integrates oracles, verifiable randomness, automation, and cross-chain communication into a unified platform.
 I engineered Supra's architecture to support multiple virtual machines, enabling developers to build dApps in various programming languages, and implemented native services like oracles and automation for seamless interoperability.
 Supra is poised for growth through the expansion of its ecosystem, increased adoption of its native services, and continuous enhancements to its developer tools and community engagement initiatives.
@@ -219,7 +219,7 @@ Supra is poised for growth through the expansion of its ecosystem, increased ado
 <h3><u><strong><i>TradeLocker</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/3.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/3.png">
 I developed TradeLocker, a next-generation trading platform that empowers traders with advanced charting, seamless order execution, and robust risk management tools.
 Leveraging the power of TradingView integration, I implemented real-time market analysis, customizable indicators, and intuitive order placement features. The platform supports trading across various asset classes, including forex, indices, metals, and cryptocurrencies. 
 TradeLocker has the potential to expand by incorporating AI-driven trading algorithms, enhancing mobile accessibility, and integrating with additional financial markets to provide a comprehensive trading ecosystem.
@@ -229,7 +229,7 @@ TradeLocker has the potential to expand by incorporating AI-driven trading algor
 <h3><u><strong><i>Singular</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/4.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/4.png">
 I developed Singular, a modular NFT marketplace designed to empower creators and collectors with advanced tools for minting, trading, and experiencing NFTs.
 Singular: the Modular NFT Marketplace
 Utilizing blockchain technologies, I implemented a customizable platform that supports various NFT functionalities, ensuring scalability and user engagement.
@@ -238,7 +238,7 @@ Singular is poised for growth by incorporating additional features, expanding it
 <h3><u><strong><i>Trisolaris</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/5.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/5.png">
 I developed Trisolaris, a decentralized exchange leveraging Aurora's EVM compatibility to provide efficient and cost-effective trading solutions.
 Utilizing Solidity for smart contract development and integrating with the Aurora engine, I implemented features like token swaps, liquidity pools, and staking mechanisms.
 The platform has the potential to expand by incorporating additional DeFi services, enhancing user experience, and fostering a broader community through governance participation.
@@ -247,7 +247,7 @@ The platform has the potential to expand by incorporating additional DeFi servic
 <h3><u><strong><i>Atujii</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/6.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/6.png">
 I developed Atujii, an engaging AR mobile application that allows users to adopt and interact with virtual pets, fostering creativity and learning.
 Utilizing Unity for AR experiences and integrating with mobile platforms, I implemented features that enable daily interactions and personalized pet care.
 The app has the potential to expand by introducing new pet characters, enhancing AR capabilities, and integrating educational modules to further engage users.
@@ -255,7 +255,7 @@ The app has the potential to expand by introducing new pet characters, enhancing
 <h3><u><strong><i>BetFury</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/7.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/7.png">
 I developed BetFury, integrating a vast array of casino games, a dynamic sportsbook, and innovative crypto-earning features to create a comprehensive gaming ecosystem.
 I utilized Ethereum and Solana for cross-chain functionality, implemented staking mechanisms, and integrated the BETBY sportsbook API to enhance user engagement.
 The platform is poised for growth through the expansion of its game library, the introduction of new staking options, and the enhancement of its mobile experience to reach a broader audience.
@@ -263,7 +263,7 @@ The platform is poised for growth through the expansion of its game library, the
 <h3><u><strong><i>PepeArab</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/8.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/8.png">
 
 I developed PepeArab, a meme-centric crypto ecosystem combining a crypto exchange, deflationary tokenomics, and NFT features for Arabic-speaking users.
 I engineered its cross-chain infrastructure on Ethereum and Solana, implemented staking, buyback/burn mechanics, NFT integration, and seamless token bridge functionality.
@@ -272,7 +272,7 @@ The platform is primed for growth through exchange expansion, AI-driven personal
 <h3><u><strong><i>Moments of Space</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/9.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/9.png">
 I developed Moments of Space, an innovative meditation app that combines ancient Dzogchen teachings with modern technology to facilitate mindfulness in everyday life.
 I utilized advanced AI algorithms to personalize meditation experiences, ensuring they align with users' emotional states and daily activities.
 The app has the potential to expand its features by incorporating more personalized meditation paths, integrating with wearable devices for real-time feedback, and fostering a global community of mindfulness practitioners.
@@ -280,7 +280,7 @@ The app has the potential to expand its features by incorporating more personali
 <h3><u><strong><i>image generation tool</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/10.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/10.png">
 I developed MyAI Zone's image generation tool, enabling users to create detailed visuals from text prompts with ease.
 Utilizing advanced AI algorithms, I implemented a system that converts textual descriptions into high-quality images, ensuring a seamless user experience.
 The platform has the potential to expand by integrating more complex AI models, enhancing image customization options, and incorporating user feedback to improve the generation process.
@@ -290,7 +290,7 @@ The platform has the potential to expand by integrating more complex AI models, 
 <h3><u><strong><i>TradeZella</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/11.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/11.png">
 I developed TradeZella, a cutting-edge trading journal and analytics platform that empowers traders to log, analyze, and improve their trading performance through automated journaling and comprehensive reporting.
 Utilizing modern web technologies and secure infrastructure, I implemented features such as broker integrations, real-time data processing, and intuitive user interfaces to provide traders with a seamless and efficient experience.
 The platform has the potential to expand by incorporating AI-driven analytics, enhancing mobile accessibility, and integrating with additional financial markets to offer a comprehensive trading ecosystem.
@@ -298,7 +298,7 @@ The platform has the potential to expand by incorporating AI-driven analytics, e
 <h3><u><strong><i>Sandbox</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/12.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/12.png">
 I developed The Sandbox, a blockchain-based gaming platform where players can create, own, and monetize voxel worlds using NFTs.
 I implemented smart contracts for secure transactions, NFT ownership of in-game assets, and a scalable backend for high user concurrency.
 The platform can expand with VR support, AI-driven content creation, and cross-platform integration to enhance immersive experiences.
@@ -306,7 +306,7 @@ The platform can expand with VR support, AI-driven content creation, and cross-p
 <h3><u><strong><i>GainPool</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/14.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/14.png">
 I developed GainPool, a multi-chain IDO/TGE platform that aggregates launchpads and enables users to access early-stage project funding.
 I implemented Ethereum smart contracts, integrated multiple launchpads, and built a scalable, user-friendly interface.
 GainPool can expand cross-chain, add analytics tools, and increase partnerships to offer more investment opportunities.
@@ -314,7 +314,7 @@ GainPool can expand cross-chain, add analytics tools, and increase partnerships 
 <h3><u><strong><i>NFT Marketplac</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/15.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/15.png">
 I developed Mr. Mint's NFT Marketplace, a platform that bridges the gap between digital collectibles and cryptocurrency mining, offering users a unique Web3 experience.
 Utilizing blockchain technology, I implemented a system that allows users to mint and trade NFTs, each linked to real-world mining activities, ensuring a seamless and secure experience.
 The marketplace has the potential to expand by integrating additional blockchain features, enhancing user engagement through gamification, and fostering a vibrant community of digital asset enthusiasts.
@@ -324,7 +324,7 @@ The marketplace has the potential to expand by integrating additional blockchain
 <h3><u><strong><i>CryptoBlades</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/16.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/16.png">
 I developed CryptoBlades, a decentralized RPG that integrates blockchain technology to offer players the opportunity to earn SKILL tokens through strategic gameplay and NFT ownership.
 Utilizing multiple blockchain platforms, I implemented a secure and scalable infrastructure that supports NFT minting, staking, and marketplace transactions, ensuring a seamless user experience.
 The platform has the potential to expand by incorporating additional gameplay modes, enhancing cross-chain compatibility, and fostering a vibrant community through guilds and alliances.
@@ -334,7 +334,7 @@ The platform has the potential to expand by incorporating additional gameplay mo
 <h3><u><strong><i>Wooshi</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/17.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/17.png">
 I developed Wooshi World, a dynamic metaverse platform where users can own, trade, and interact with unique Wooshi NFTs, each offering distinct traits and abilities.
 Leveraging Ethereum's blockchain, I implemented smart contracts to ensure secure ownership and transaction of Wooshi NFTs, integrating them seamlessly into the Wooshi World ecosystem.
 The platform has the potential to expand by incorporating additional gameplay features, enhancing user engagement through community events, and integrating with other metaverse platforms for broader interoperability.
@@ -342,7 +342,7 @@ The platform has the potential to expand by incorporating additional gameplay fe
 <h3><u><strong><i>Rainbet</i></strong></u></h3>
 <hr />
 
-<img align="right" width="300px" height="200px" src="https://github.com/akyo0000212/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/18.png">
+<img align="right" width="300px" height="200px" src="https://github.com/codebyhuman/Web3-Solana-Bitcoin-NFT-Dex-Defi-DAO-P2EGame-SmartContract-Projects/blob/main/sources/18.png">
 I developed Rainbet, a blockchain-powered crypto casino and sportsbook offering slots, live games, and secure crypto betting.
 I integrated provably fair algorithms, multi-crypto payment systems, and a high-performance backend for instant transactions.
 Rainbet can grow with AI-driven personalization, expanded game offerings, and enhanced mobile experiences.

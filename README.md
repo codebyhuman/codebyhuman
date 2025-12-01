@@ -1,16 +1,10 @@
-<div align="center">
-  <h2>💦 Web3 | Rust | Smart Contract | Trading Bot | 3D WebSite Developer 💦</h2>
-</div>
+<div align="center"> 
+<h2>💦 Web3 Builder & Entrepreneur | Rust | Solidity | Smart Contracts 💦</h2> 
+</div> <h4> I am a Web3 innovator turning ideas into real value. With deep expertise in Rust (Solana & NEAR) and Solidity (Ethereum), I build secure, scalable smart contracts, dApps, automated trading bots, and advanced DeFi protocols.
 
-<h4>I am a highly skilled software engineer with deep expertise in Web4 development, specializing in Rust-based smart contracts for platforms such as Solana and NEAR, as well as Ethereum smart contracts using Solidity. 
-I have a strong track record of building secure, efficient, and scalable blockchain solutions  including decentralized applications (dApps), automated trading bots, and advanced DeFi protocols.</h4>
+Blending technical excellence with strategic insight, I help projects go from concept to production-ready solutions, bridging blockchain innovation with real-world impact. My focus is always on creating tools, platforms, and ecosystems that drive value for users, communities, and businesses alike.
 
-<h4>With a solid background in 3D web development using Three.js, WebGL, and interactive UX/UI design, I create visually engaging, performance-optimized applications that bridge functionality with immersive design. 
-My full stack experience spans React, Next.js, Node.js, and modern DevOps workflows.</h4>
-
-<h4>I bring both technical excellence and strategic insight to blockchain projects, ensuring they are production-ready, user-centric, and future-proof.</h4>
-
-<br/>
+</h4>
 
 # 
 <table align="center">

@@ -1,5 +1,5 @@
 <div align="center"> 
-<h2>💦 Web3 Builder 💦</h2> 
+<h2>💦 Crypto Hunter 💦</h2> 
 </div> 
   <h4> I am a Web3 innovator turning ideas into real value. With deep expertise in Rust (Solana & NEAR) and Solidity (Ethereum), I build secure, scalable smart contracts, dApps, automated trading bots, and advanced DeFi protocols.
   </h4>

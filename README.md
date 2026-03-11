@@ -199,18 +199,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=sketch-1&darkmode=0" height="630" width="630">
-</div>
-
-###
-
-  <p align=center>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </p>
-
-###
-
 # <i>My Previous Blockchain projects</i>
 
 I have developed multiple NFT and blockchain projects encompassing a wide range of functionalities, including NFT lending and borrowing platforms, minting, staking, evolution/breeding mechanisms, raffle and auction systems, launchpads, marketplaces, and play-to-earn (P2E) games such as loot boxes, dice, crash, jackpot, and coin flip. All related repositories are maintained as private.
